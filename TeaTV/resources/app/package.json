@@ -64,7 +64,7 @@
     "fs-extra": "^4.0.2",
     "history": "^4.7.2",
     "iconv-lite": "^0.4.19",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "js-events-listener": "^1.0.0",
     "md5": "^2.2.1",
     "mdns": "^2.3.4",
