@@ -12,7 +12,7 @@
   "author": "atoppa",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "base-64": "^0.1.0",
     "byte-converter": "^0.1.4",
     "cheerio-without-node-native": "^0.20.2",
