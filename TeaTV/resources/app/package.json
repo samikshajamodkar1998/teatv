@@ -48,7 +48,7 @@
     "@appota/provider-crawl": "git+https://git.appota.com/dongnt/provider-crawler.git",
     "@appota/url-resolver": "git+https://git.appota.com/huylq/url-resolver.git",
     "@exponent/electron-cookies": "^2.0.0",
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "castv2-client": "^1.2.0",
     "compare-versions": "^3.1.0",
