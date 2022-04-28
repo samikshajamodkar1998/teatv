@@ -18,7 +18,7 @@
     "cheerio-without-node-native": "^0.20.2",
     "cloudscraper": "^1.4.1",
     "compare-versions": "^3.1.0",
-    "cross-fetch": "^1.1.1",
+    "cross-fetch": "^3.1.5",
     "crypto-js": "^3.1.9-1",
     "dom-storage": "^2.0.2",
     "js-events-listener": "^1.0.0",
