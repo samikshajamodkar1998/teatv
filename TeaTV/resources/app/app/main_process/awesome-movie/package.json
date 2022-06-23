@@ -22,7 +22,7 @@
     "crypto-js": "^3.1.9-1",
     "dom-storage": "^2.0.2",
     "js-events-listener": "^1.0.0",
-    "jsdom": "^11.6.2",
+    "jsdom": "^16.5.0",
     "qs": "^6.5.1",
     "remote-file-size": "^3.0.4",
     "request": "^2.83.0"
